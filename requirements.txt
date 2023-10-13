@@ -1,0 +1,6 @@
+aiohttp==3.8.5
+aiohttp-retry==2.8.3
+aiopath==0.6.11
+aiosqlite==0.19.0
+beautifulsoup4==4.12.2
+python-slugify==8.0.1
